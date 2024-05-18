@@ -1,4 +1,4 @@
-# Welcome to My Pythonic Projects Repository! 🐍
+# Welcome to My Python Projects Repository! 🐍
 
 This repository contains a collection of various Python projects that I've worked on during my semester and other occasions. Whether you're exploring these projects for learning, inspiration, or collaboration, you'll find a diverse set of Pythonic applications and utilities here.
 
