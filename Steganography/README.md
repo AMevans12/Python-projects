@@ -16,7 +16,7 @@ This is a simple GUI-based steganographic forensic tool built with Python, which
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/AMevans12/Python-projects
+   git clone https://github.com/AMevans12/Python-projects/Steganography
    ```
 
 2. Install the required dependencies:
