@@ -34,7 +34,7 @@ This is a simple GUI-based steganographic forensic tool built with Python, which
 ├── steganographic_tool.py  # Main Python script
 ├── logo.png                # Logo used in the GUI
 ├── logo.jpg                # Additional logo image used in the GUI
-├── requirements.txt        # List of required Python packages
+├── requirements.txt        # List of required Python packages 
 
 
 ## Usage
