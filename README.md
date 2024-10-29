@@ -8,7 +8,7 @@ The repository consists of Python projects covering different areas of interest.
 
 - **README file**: Provides an overview of the project, its purpose, and instructions on how to use it.
 - **Source Code**: Well-commented Python scripts implementing the project's functionalities.
-
+ 
 ## Getting Started
 
 To get started with exploring the projects in this repository, follow these steps:
