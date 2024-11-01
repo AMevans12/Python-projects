@@ -5,7 +5,7 @@ This repository contains a collection of various Python projects that I've worke
 ## Repository Contents
 
 The repository consists of Python projects covering different areas of interest. Each project typically includes:
-
+ 
 - **README file**: Provides an overview of the project, its purpose, and instructions on how to use it.
 - **Source Code**: Well-commented Python scripts implementing the project's functionalities.
  
